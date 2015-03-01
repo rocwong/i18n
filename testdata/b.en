@@ -1,0 +1,3 @@
+file=test/b.en
+[US]
+greeting=Howdy, %s
